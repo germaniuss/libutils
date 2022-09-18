@@ -1,0 +1,45 @@
+{
+    "files.associations": {
+        "thread.h": "c",
+        "sha_256.h": "c",
+        "pthread.h": "c",
+        "mutex.h": "c",
+        "time.h": "c",
+        "struct_timespec.h": "c",
+        "clock_t.h": "c",
+        "linked_map.h": "c",
+        "memory.h": "c",
+        "string.h": "c",
+        "stdbool.h": "c",
+        "stddef.h": "c",
+        "features.h": "c",
+        "stdlib.h": "c",
+        "stdint.h": "c",
+        "libc-header-start.h": "c",
+        "ini.h": "c",
+        "ctype.h": "c",
+        "hashtable.h": "c",
+        "generic.h": "c",
+        "optional": "cpp",
+        "ratio": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "sorted_map.h": "c",
+        "hash.h": "c",
+        "timer.h": "c",
+        "str.h": "c",
+        "pipe.h": "c",
+        "path.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/germanius/Documents/GitHub/libutils",
+            "binaryPath": "/home/germanius/Documents/GitHub/libutils/myapp",
+            "binaryArgs": []
+        }
+    ]
+}
